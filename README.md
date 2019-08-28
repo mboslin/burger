@@ -19,4 +19,4 @@ Using an ORM, the app has 3 main CRUD functions.
     * Re-routes the webpage back to the index, where the burger is now ready to be eaten column (via Handlebars).
 
 
-    ![Alt Text](Screenshots/burger.gif)
+  ![Alt Text](Screenshots/burger.gif)
